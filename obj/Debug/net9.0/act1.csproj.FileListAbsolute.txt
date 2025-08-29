@@ -1,0 +1,14 @@
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\act1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\act1.AssemblyInfoInputs.cache
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\act1.AssemblyInfo.cs
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\act1.csproj.CoreCompileInputs.cache
+C:\Visual Code\C#\Kelas11\LKPD4\act1\bin\Debug\net9.0\act1.exe
+C:\Visual Code\C#\Kelas11\LKPD4\act1\bin\Debug\net9.0\act1.deps.json
+C:\Visual Code\C#\Kelas11\LKPD4\act1\bin\Debug\net9.0\act1.runtimeconfig.json
+C:\Visual Code\C#\Kelas11\LKPD4\act1\bin\Debug\net9.0\act1.dll
+C:\Visual Code\C#\Kelas11\LKPD4\act1\bin\Debug\net9.0\act1.pdb
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\act1.dll
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\refint\act1.dll
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\act1.pdb
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\act1.genruntimeconfig.cache
+C:\Visual Code\C#\Kelas11\LKPD4\act1\obj\Debug\net9.0\ref\act1.dll
